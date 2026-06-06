@@ -45,3 +45,7 @@ The Hive (Case Management) |
 8. Wazuh will instruct the agent to preform the responsive action
 
 <img width="500" height="524" alt="socautomation" src="https://github.com/user-attachments/assets/778849b6-a549-40f1-b9b9-2894333d9648" />
+
+2. Install Application and Virtual Machines
+- Install Windows 11 into Virtual Box
+- Download and Install Sysmon on the Windows 11 VM
